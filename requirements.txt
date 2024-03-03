@@ -7,4 +7,5 @@ stem>=1.8.0
 torrequest>=0.1.0
 pandas>=1.0.0
 openpyxl<=3.0.10
+Flask==2.0.2
 exrex>=0.11.0
